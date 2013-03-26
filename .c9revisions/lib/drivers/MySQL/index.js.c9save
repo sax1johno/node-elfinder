@@ -1,0 +1,5 @@
+{"ts":1364332991567,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1364333114427,"patch":[[{"diffs":[[1,"/**\n * The volume driver for the MySQL data storage backend.\n **/\n \n/** Variables that are global to this module. **/\nvar opts;\n\n// Default options.\nopts = {\n    'driver': 'MySQL',\n    'host': 'localhost',\n    'socket': '/tmp/mysql.sock',\n    'user': 'eluser',\n    'pass': 'elpass',\n    'db': 'elfinder',\n    'files_table': 'elfinder_file',\n    'path': 1,\n    'tmpPath': '/tmp'\n}"]],"start1":0,"start2":0,"length1":0,"length2":379}]],"length":379,"saved":false}
+{"ts":1364333116428,"patch":[[{"diffs":[[0,"'/tmp'\n}"],[1,";"]],"start1":371,"start2":371,"length1":8,"length2":9}]],"length":380,"saved":false}
+{"ts":1364333128791,"patch":[[{"diffs":[[0,"ions"],[-1,".\no"],[1," specific to this driver.\nvar defaultO"],[0,"pts "]],"start1":143,"start2":143,"length1":11,"length2":46}]],"length":415,"saved":false}
+{"ts":1364333133474,"patch":[[{"diffs":[[0,"er.\n"],[-1,"var defaultO"],[1,"o"],[0,"pts "]],"start1":169,"start2":169,"length1":20,"length2":9}]],"length":404,"saved":false}

@@ -1,0 +1,28 @@
+{
+  "name": "node-elfinder-connector",
+  "description": "A node.js server-side connector for elfinder",
+  "tags": [
+    "elfinder"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "John O'Connor",
+    "email": "sax1johno@gmail.com"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "./lib/",
+  "dependencies": {
+    "mongoose": "*",
+    "underscore": "*",
+    "nodeunit": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/sax1johno/node-elfinder.git"
+  },
+  "_id": "node-elfinder-connector@0.0.7",
+  "_from": "node-elfinder-connector@0.0.7"
+}
