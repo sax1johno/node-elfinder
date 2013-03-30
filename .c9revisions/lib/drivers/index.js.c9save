@@ -1,1 +1,2 @@
 {"ts":1364331670283,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1364335399857,"patch":[[{"diffs":[[1,"/**\n * Provides access to all of the avilable drivers.\n **/\n \nexports.MySQL = require('./MySQL');\n\nexports.Mongoose = require('./Mongoose');\n\nexports.LocalFileSystem = require('./LocalFileSystem');\n\nexports.FTP = require('./FTP');"]],"start1":0,"start2":0,"length1":0,"length2":230}]],"length":230,"saved":false}

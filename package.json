@@ -16,7 +16,8 @@
   "dependencies": {
     "mongoose": "*",
     "underscore": "*",
-    "nodeunit": "*"
+    "nodeunit": "*",
+    "q": "*"
   },
   "devDependencies": {},
   "repository": {
