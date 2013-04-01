@@ -17,7 +17,8 @@
     "mongoose": "*",
     "underscore": "*",
     "nodeunit": "*",
-    "q": "*"
+    "q": "*",
+    "ghiraldi-simple-logger": "*"
   },
   "devDependencies": {},
   "repository": {
